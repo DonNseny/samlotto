@@ -1,0 +1,2 @@
+# samlotto
+a lotto app
